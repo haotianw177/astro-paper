@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haotianw177.github.io/sitemap-index.xml
+Sitemap: https://haotianw177.github.io/astro-paper/sitemap-index.xml
